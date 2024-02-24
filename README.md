@@ -8,5 +8,5 @@ The project still has many areas for improvement.
 version:redweb0202402024
 md5:87acf1e747a5e2bc1f8612cd13903a37
 https://drive.proton.me/urls/KM2S2075FG#i3lDMmNCs0ND
-https://www.lanzouh.com/rw240224
+https://www.lanzoub.com/rw240224
 ```
