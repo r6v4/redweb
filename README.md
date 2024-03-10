@@ -8,7 +8,7 @@ runtime: linux>=5.10 glibc>=2.31
 The project still has many areas for improvement.
 
 version:redweb20240310
-md5:
+md5:c015ea1e3d590367b796d73b8c4f9e55
 https://drive.proton.me/urls/XDBA6DPKFR#D0JXQDbfIdel
 https://www.lanzoub.com/rw240310
 ```
